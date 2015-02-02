@@ -1,0 +1,1 @@
+web: node ./node_modules/resume-cli/index.js serve -p 80
