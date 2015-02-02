@@ -11,7 +11,7 @@
     "email": ""
   },
   "scripts": {
-    "test": "node ./node_modules/resume-cli/index.js export index -f html"
+    "test": "node ./node_modules/resume-cli/index.js export index -f html",
     "postinstall": "node ./node_modules/resume-cli/index.js export public/index -f html"
   },
   "dependencies": {
