@@ -1,146 +1,338 @@
 {
   "basics": {
-    "name": "Steven Edouard",
-    "label": "Developer Evangelist",
-    "picture": "https://scontent-b-sjc.xx.fbcdn.net/hphotos-prn1/t1.0-9/603953_10151522578258327_946466229_n.jpg ",
-    "email": "steven.edouard1@gmail.com",
-    "website": "http://stevenedouard.com",
-    "summary": "I am a Developer Evangelist for Microsoft. Every day I work to empower individuals to build awesome things. I eventually hope to pursue a role where I can have high impact on a product.",
+    "name": "Adam Embury",
+    "picture": "https://media.licdn.com/mpr/mprx/0_x9J4KPBTeAnhYfQt0BUIKAQaelATpfntgtDbKAnPBcLliwT-1rdqOlGgQylYxHBYYzR6xnHQG_1n",
+    "email": "adam.embury@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "A competent and dedicated IT professional with over 10 years experience developing software solutions using a wide range of Microsoft and web technologies. \n\nExtensively involved in all phases of the project lifecycle, from customer requirements gathering through to product support, in a variety of roles. \n\nExcellent communication skills acquired from frequent customer interaction along with experience of managing and working within teams, as well as alone, to deliver solutions on deadline. \n\nI have a proven track record of being an excellent problem solver, demonstrating an ability to communicate with clients at all levels, whilst working under pressure to meet strict deadlines. \n\nI regularly attend local Tech and Agile user groups and have keen interest in constantly improving myself and those around me.",
     "location": {
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Manchester, United Kingdom",
+      "countryCode": "GB",
+      "region": ""
     },
-    "profiles": [
-      {
-        "network": "Resume Source",
-        "url": "http://github.com/sedouard/resume",
-        "username": "This Resume is built from this Github Repo"
-      },
-      {
-        "network": "Twitter",
-        "username": "sedouard",
-        "url": "http://twitter.com/sedouard"
-      },
-      {
-        "network": "Github",
-        "username": "sedouard",
-        "url": "https://github.com/sedouard"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "company": "Microsoft",
-      "position": "Developer Evangelist",
-      "website": "http://microsoft.com",
-      "startDate": "2014-03-04",
-      "summary": "Responsible for increasing adoption of Microsoft developer platforms.",
-      "highlights": [
-        "Created many technical blog posts focusing on cloud and web development with Microsoft tech",
-        "Successfully won Techcrunch Disrupt Hardware Sponsor Award",
-        "Delivered dozens of original technical presentations from high school to pro developers",
-        "Went from 12 to >100 average unique daily website views",
-        "Authored 2 articles on MSDN magazine"
-      ]
+      "company": "Maginus Software Solutions",
+      "position": "Principal Lead Developer",
+      "website": "",
+      "startDate": "2014-04-01",
+      "summary": "Currently focussed on delivering complex B2B and B2C eCommerce and content based websites based on the EPiServer framework, ASP.NET MVC4, and AngularJS, as the Tech Lead of a multi-disciplined team.\n\nResponsible for building an automated test and deployment pipeline using a combination of TeamCity, Octopus Deploy, FAKE and PowerShell.",
+      "highlights": []
     },
     {
-      "company": "Microsoft",
-      "position": "Software Development Engineer in Test, Common Language Runtime",
-      "website": "http://www.microsoft.com/net",
-      "startDate": "2012-01-22",
-      "endDate": "2014-03-04",
-      "summary": "Responsible for integration, dynamic testing and diagnostics of the Common Language Runtime.",
-      "highlights": [
-        "Created innovative test validations and infrastructure for Microsoft .NET Runtime debugger and diagnostics APIs consumed by Visual Studio ",
-        "Extended Visual Studio Test Explorer it to run complex end-to-end scenario tests",
-        "Assisted in customer on-boarding to .NET 4.5.1 by syncing with feature teams to diagnose issues",
-        "Drove product test results and collaborated with various feature teams across .NET to drive validation pass rates"
-      ]
+      "company": "Quantiv Limited",
+      "position": "Principal Lead Developer",
+      "website": "",
+      "startDate": "2012-05-01",
+      "summary": "Responsible for the technical oversight of a multi-channel eCommerce project. \n\nIntroduced the use of Jenkins as a Continuous Integration Server and a transition to Git for source control.\n\nGuided the team in the introduction of better development techniques such as refactoring the code to allow the introduction of unit tests using NUnit.\n\nResponsible for directing the team in following a more Agile way of working and have recently introduced the use of BDD and Kanban.",
+      "highlights": [],
+      "endDate": "2014-04-01"
     },
     {
-      "company": "Lockheed Martin Mission Systems",
-      "position": "Software Engineer Intern (4 summers)",
-      "website": "http://www.lockheedmartin.com",
-      "startDate": "2008-01-22",
-      "endDate": "2011-08-01",
-      "summary": "Obtained critical experience during college on software development for mission-critical scenarios.",
-      "highlights": [
-        "Designed system requirements for autonomous underwater vehicle ",
-        "Designed and implemented features on common software for use with multiple vehicles ",
-        "Performed software cost estimates",
-        "Implemented software features for sonar system displays"
-      ]
-    }
-  ],
-  "volunteer": [
+      "company": "Quantiv Limited",
+      "position": "Lead Developer",
+      "website": "",
+      "startDate": "2011-11-01",
+      "summary": "Responsible for technical delivery of projects, estimation, quality, consistency and maintainability of the development activity.",
+      "highlights": [],
+      "endDate": "2012-05-01"
+    },
     {
-      "organization": "TEALS",
-      "position": "Teacher",
-      "website": "http://tealsk12.org",
-      "startDate": "2012-07-01",
-      "endDate": "2013-05-05",
-      "summary": "High school Teacher for an inner-city computer science class.",
-      "highlights": [
-        "Featured in the International New York Times"
-      ]
+      "company": "Quantiv Limited",
+      "position": "Developer",
+      "website": "",
+      "startDate": "2009-12-01",
+      "highlights": [],
+      "endDate": "2011-11-01"
+    },
+    {
+      "company": "Astech Projects",
+      "position": "Lead Software Engineer",
+      "website": "",
+      "startDate": "2007-12-01",
+      "summary": "As below plus:\n\nLeading teams of developers and being responsible for the technical design and implementation of the software systems.\nPerforming staff appraisals within the software group.",
+      "highlights": [],
+      "endDate": "2009-12-01"
+    },
+    {
+      "company": "Astech Projects",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2004-09-01",
+      "summary": "Astech Projects are a specialist Engineering and Science based company that supply advanced automated systems to a worldwide customer base.\n \nDuties and Responsibilities\n \nSoftware development with a special emphasis on C#.NET, whilst also utilising other technologies such as VBA, Oracle and scripting languages. Software development encompassing both standalone products and the development of add-in modules for existing applications.\n·  Involved in a large number of projects over the full range of stages and aspects of the software lifecycle - requirements gathering, specification creation, system design, testing, product development, system deployment and system maintenance. \n.  Projects were a mix of individually assigned and team-based.\n·  Responsible for designing the software solution for a system that was awarded the Queen’s Award for Enterprise.\n·  Customer facing role – as the solutions are in most cases customer specific, the customer is involved to a large extent in the product development life-cycle. I have been involved in numerous commercial and technical meetings involving many of the world’s largest Pharmaceutical companies.\n·  Involved in the quotation and sales process with new and existing customers.\n·  Used to working in a highly regulated environment, and with highly confidential information.\n·  Commissioning, testing and maintenance of systems throughout the UK, Europe and USA.\n·  Developed a wide range of different products, including windows services, desktop applications, and application libraries.",
+      "highlights": [],
+      "endDate": "2007-12-01"
     }
   ],
   "education": [
     {
-      "institution": "University of Florida",
-      "area": "Computer Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2007-08-01",
-      "endDate": "2011-12-01",
-      "gpa": "3.47"
-    }
-  ],
-  "awards": [
-    {
-      "name": "Visual Studio Team Excellence Light House Award",
-      "date": "2013-04-01",
-      "awarder": "Visual Studio Team - Microsoft",
-      "summary": "Given to member of the Visual Studio team who goes above and beyond their role."
+      "institution": "The University of Manchester",
+      "area": "Computer Science, Electronics, Digital Circuit Design",
+      "studyType": "Electronic and Computer Systems",
+      "startDate": "2001-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2004-01-01"
     }
   ],
   "skills": [
     {
-      "name": "C# and .NET",
-      "level": "Master",
-      "keywords": [
-        "C#"
-      ]
+      "name": "C#",
+      "level": "",
+      "keywords": []
     },
     {
-      "name": "Node.js",
-      "level": "Intermediate",
-      "keywords": [
-        "javascript",
-        "express"
-      ]
+      "name": "ASP.NET MVC",
+      "level": "",
+      "keywords": []
     },
     {
-      "name": "Cloud Services",
-      "level": "Master",
-      "keywords": [
-        "PaaS",
-        "Storage",
-        "APIs"
-      ]
+      "name": "Octopus Deploy",
+      "level": "",
+      "keywords": []
     },
     {
-      "name": "iOS Application Development",
-      "level": "Intermediate",
-      "keywords": [
-        "Objective-C"
-      ]
+      "name": "AngularJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MVC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "EPiServer",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "BDD",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "E-commerce",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "REST",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WCF",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TFS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Studio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WinForms",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NUnit",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AJAX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Design Patterns",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "T-SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "OOP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SOA",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jenkins",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "XML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "UML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSON",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ExtJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Robotic Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GAMP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Subversion",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows Azure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "FAKE",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cross-functional Team Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TeamCity",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test Driven Development",
+      "level": "",
+      "keywords": []
     }
   ],
-  "languages": [
+  "references": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "name": "Richard Stockley",
+      "reference": "Adam is an exceptional, well rounded software engineer. With the ability to seamlessly deliver elegant solutions to complex problems and lead multi-disciplinary teams from the front, he would be the first choice in any team I had to assemble."
     }
-  ]
+  ],
+  "languages": [],
+  "volunteer": []
 }
