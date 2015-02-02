@@ -1,1 +1,1 @@
-web: node ./node_modules/resume-cli/index.js serve -p 80
+web: node ./node_modules/resume-cli/index.js serve -p process.env.PORT
