@@ -8,15 +8,14 @@
   "main": "app.js",
   "author": {
     "name": "aembury",
-    "email": ""
+    "email": "adam.embury@gmail.com"
   },
-  "scripts": {
-    "test": "node ./node_modules/resume-cli/index.js export index -f html",
+  "scripts": {    
     "postinstall": "node ./node_modules/resume-cli/index.js export public/index -f html"
   },
   "dependencies": {
     "finalhandler": "^0.3.3",
-    "resume-cli": "^0.3.10",
+    "resume-cli": "^0.3.11",
     "serve-static": "^1.8.1"
   }
 }
