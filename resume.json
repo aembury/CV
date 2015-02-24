@@ -30,8 +30,10 @@
       "position": "Principal Lead Developer",
       "website": "",
       "startDate": "2014-04-01",
-      "summary": "Currently focussed on delivering complex B2B and B2C eCommerce and content based websites based on the EPiServer framework, ASP.NET MVC4, and AngularJS, as the Tech Lead of a multi-disciplined team.\n\nResponsible for building an automated test and deployment pipeline using a combination of TeamCity, Octopus Deploy, FAKE and PowerShell.",
-      "highlights": []
+      "summary": "Currently focussed on delivering complex B2B and B2C eCommerce and content based websites based on the EPiServer framework, ASP.NET MVC4, and AngularJS, as the Tech Lead of a multi-disciplined team.
+	  \n\nResponsible for building an automated test and deployment pipeline using a combination of TeamCity, Octopus Deploy, FAKE and PowerShell.
+	  \n\nBuilt a faceted navigation system using a combination of AngularJS, Web API and Elastic Search.",
+      "highlights": ["Certified iCore developer"]
     },
     {
       "company": "Quantiv Limited",
@@ -39,7 +41,7 @@
       "website": "",
       "startDate": "2012-05-01",
       "summary": "Responsible for the technical oversight of a multi-channel eCommerce project. \n\nIntroduced the use of Jenkins as a Continuous Integration Server and a transition to Git for source control.\n\nGuided the team in the introduction of better development techniques such as refactoring the code to allow the introduction of unit tests using NUnit.\n\nResponsible for directing the team in following a more Agile way of working and have recently introduced the use of BDD and Kanban.",
-      "highlights": [],
+      "highlights": ["BDD Kickstart training"],
       "endDate": "2014-04-01"
     },
     {
@@ -47,7 +49,8 @@
       "position": "Lead Developer",
       "website": "",
       "startDate": "2011-11-01",
-      "summary": "Responsible for technical delivery of projects, estimation, quality, consistency and maintainability of the development activity.",
+      "summary": "Development of a javascript single page application based on the Sencha ExtJS framework, and REST back-end services built using MVC3.
+	  \n\nResponsible for technical delivery of projects, estimation, quality, consistency and maintainability of the development activity.",
       "highlights": [],
       "endDate": "2012-05-01"
     },
@@ -56,7 +59,7 @@
       "position": "Developer",
       "website": "",
       "startDate": "2009-12-01",
-      "highlights": [],
+      "highlights": ["Development of an eCommerce website using MVC2 and the companies in-house ORM/business framework"],
       "endDate": "2011-11-01"
     },
     {
@@ -64,7 +67,7 @@
       "position": "Lead Software Engineer",
       "website": "",
       "startDate": "2007-12-01",
-      "summary": "As below plus:\n\nLeading teams of developers and being responsible for the technical design and implementation of the software systems.\nPerforming staff appraisals within the software group.",
+      "summary": "Leading teams of developers and being responsible for the technical design and implementation of the software systems.\nPerforming staff appraisals within the software group.",
       "highlights": [],
       "endDate": "2009-12-01"
     },
@@ -73,7 +76,7 @@
       "position": "Software Engineer",
       "website": "",
       "startDate": "2004-09-01",
-      "summary": "Astech Projects are a specialist Engineering and Science based company that supply advanced automated systems to a worldwide customer base.\n \nDuties and Responsibilities\n \nSoftware development with a special emphasis on C#.NET, whilst also utilising other technologies such as VBA, Oracle and scripting languages. Software development encompassing both standalone products and the development of add-in modules for existing applications.\n·  Involved in a large number of projects over the full range of stages and aspects of the software lifecycle - requirements gathering, specification creation, system design, testing, product development, system deployment and system maintenance. \n.  Projects were a mix of individually assigned and team-based.\n·  Responsible for designing the software solution for a system that was awarded the Queen’s Award for Enterprise.\n·  Customer facing role – as the solutions are in most cases customer specific, the customer is involved to a large extent in the product development life-cycle. I have been involved in numerous commercial and technical meetings involving many of the world’s largest Pharmaceutical companies.\n·  Involved in the quotation and sales process with new and existing customers.\n·  Used to working in a highly regulated environment, and with highly confidential information.\n·  Commissioning, testing and maintenance of systems throughout the UK, Europe and USA.\n·  Developed a wide range of different products, including windows services, desktop applications, and application libraries.",
+      "summary": "Software development with a special emphasis on C#.NET, whilst also utilising other technologies such as VBA, Oracle and scripting languages. Software development encompassing both standalone products and the development of add-in modules for existing applications.\n·  Involved in a large number of projects over the full range of stages and aspects of the software lifecycle - requirements gathering, specification creation, system design, testing, product development, system deployment and system maintenance. \n.  Projects were a mix of individually assigned and team-based.\n·  Responsible for designing the software solution for a system that was awarded the Queen’s Award for Enterprise.\n·  Customer facing role – as the solutions are in most cases customer specific, the customer is involved to a large extent in the product development life-cycle. I have been involved in numerous commercial and technical meetings involving many of the world’s largest Pharmaceutical companies.\n·  Involved in the quotation and sales process with new and existing customers.\n·  Used to working in a highly regulated environment, and with highly confidential information.\n·  Commissioning, testing and maintenance of systems throughout the UK, Europe and USA.\n·  Developed a wide range of different products, including windows services, desktop applications, and application libraries.",
       "highlights": [],
       "endDate": "2007-12-01"
     }

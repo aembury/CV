@@ -11,7 +11,7 @@
     "email": "adam.embury@gmail.com"
   },
   "scripts": {    
-    "postinstall": "node ./node_modules/resume-cli/index.js export public/index -f html"
+    "postinstall": "node ./node_modules/resume-cli/index.js export public/index -f html -t elegant"
   },
   "dependencies": {
     "finalhandler": "^0.3.3",
