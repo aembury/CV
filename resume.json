@@ -30,9 +30,7 @@
       "position": "Principal Lead Developer",
       "website": "",
       "startDate": "2014-04-01",
-      "summary": "Currently focussed on delivering complex B2B and B2C eCommerce and content based websites based on the EPiServer framework, ASP.NET MVC4, and AngularJS, as the Tech Lead of a multi-disciplined team.
-	  \n\nResponsible for building an automated test and deployment pipeline using a combination of TeamCity, Octopus Deploy, FAKE and PowerShell.
-	  \n\nBuilt a faceted navigation system using a combination of AngularJS, Web API and Elastic Search.",
+      "summary": "Currently focussed on delivering complex B2B and B2C eCommerce and content based websites based on the EPiServer framework, ASP.NET MVC4, and AngularJS, as the Tech Lead of a multi-disciplined team.\n\nResponsible for building an automated test and deployment pipeline using a combination of TeamCity, Octopus Deploy, FAKE and PowerShell.\n\nBuilt a faceted navigation system using a combination of AngularJS, Web API and Elastic Search.",
       "highlights": ["Certified iCore developer"]
     },
     {
@@ -49,8 +47,7 @@
       "position": "Lead Developer",
       "website": "",
       "startDate": "2011-11-01",
-      "summary": "Development of a javascript single page application based on the Sencha ExtJS framework, and REST back-end services built using MVC3.
-	  \n\nResponsible for technical delivery of projects, estimation, quality, consistency and maintainability of the development activity.",
+      "summary": "Development of a javascript single page application based on the Sencha ExtJS framework, and REST back-end services built using MVC3.\n\nResponsible for technical delivery of projects, estimation, quality, consistency and maintainability of the development activity.",
       "highlights": [],
       "endDate": "2012-05-01"
     },
