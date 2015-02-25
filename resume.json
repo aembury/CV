@@ -9,7 +9,7 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Manchester, United Kingdom",
+      "city": "Warrington, United Kingdom",
       "countryCode": "GB",
       "region": ""
     },
@@ -38,7 +38,7 @@
       "position": "Principal Lead Developer",
       "website": "",
       "startDate": "2012-05-01",
-      "summary": "Responsible for the technical oversight of a multi-channel eCommerce project. \n\nIntroduced the use of Jenkins as a Continuous Integration Server and a transition to Git for source control.\n\nGuided the team in the introduction of better development techniques such as refactoring the code to allow the introduction of unit tests using NUnit.\n\nResponsible for directing the team in following a more Agile way of working and have recently introduced the use of BDD and Kanban.",
+      "summary": "Responsible for the technical oversight of a multi-channel eCommerce project. \n\nIntroduced the use of Jenkins as a Continuous Integration Server and a transition to Git for source control.\n\nGuided the team in the introduction of better development techniques such as refactoring the code to allow the introduction of unit tests using NUnit.\n\nResponsible for directing the team in following a more Agile way of working and have recently introduced the use of BDD and Kanban.\n\nBuilt an information dashboard using a combination of Ruby, Coffeescript and a Web API backend",
       "highlights": ["BDD Kickstart training"],
       "endDate": "2014-04-01"
     },
@@ -48,7 +48,7 @@
       "website": "",
       "startDate": "2011-11-01",
       "summary": "Development of a javascript single page application based on the Sencha ExtJS framework, and REST back-end services built using MVC3.\n\nResponsible for technical delivery of projects, estimation, quality, consistency and maintainability of the development activity.",
-      "highlights": [],
+      "highlights": ["QA - Stepping up into Management"],
       "endDate": "2012-05-01"
     },
     {
@@ -137,6 +137,16 @@
     },
     {
       "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+	{
+      "name": "LESS",
+      "level": "",
+      "keywords": []
+    },
+	{
+      "name": "Bootstrap",
       "level": "",
       "keywords": []
     },
