@@ -31,13 +31,13 @@
             "company": "bet365",
             "position": "Contract Software Developer",
             "startDate": "2015-04-16",
-            "summary": ".Net developer responsible for building responsive MVC websites as well as supporting APIs and windows applications."
+            "summary": "Senior .Net developer responsible for building responsive MVC websites as well as supporting APIs and windows applications.\nRewrite of Webforms site written in VB.Net into a C# MVC5 application."
         },
         {
             "company": "Embury Software Ltd",
             "position": "Director",
             "startDate": "2015-04-16",
-            "summary": "Freelance .Net web developer"
+            "summary": "Freelance .Net full stack developer"
         },
         {
             "company": "Maginus Software Solutions",
@@ -45,7 +45,7 @@
             "website": "",
             "startDate": "2014-04-01",
             "endDate": "2015-04-16",
-            "summary": "Currently focussed on delivering complex B2B and B2C eCommerce and content based websites based on the EPiServer framework, ASP.NET MVC4, and AngularJS, as the Tech Lead of a multi-disciplined team.\n\nResponsible for building an automated test and deployment pipeline using a combination of TeamCity, Octopus Deploy, FAKE and PowerShell.\n\nBuilt a faceted navigation system using a combination of AngularJS, Web API and Elastic Search.",
+            "summary": "Focussed on delivering complex B2B and B2C eCommerce and content based websites based on the EPiServer framework, ASP.NET MVC4, and AngularJS, as the Tech Lead of a multi-disciplined team.\n\nResponsible for building an automated test and deployment pipeline using a combination of TeamCity, Octopus Deploy, FAKE and PowerShell.\n\nBuilt a faceted navigation system using a combination of AngularJS, Web API and Elastic Search.",
             "highlights": [ "Certified iCore developer" ]
         },
         {
