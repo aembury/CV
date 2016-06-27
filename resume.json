@@ -31,7 +31,7 @@
             "company": "bet365",
             "position": "Contract Software Developer",
             "startDate": "2015-04-16",
-            "summary": "Senior .Net developer responsible for building responsive MVC websites as well as supporting APIs and windows applications.\nRewrite of Webforms site written in VB.Net into a C# MVC5 application."
+            "summary": "Rewrite of the Poker site from a legacy WebForms site written in VB .Net to a C# MVC5 site based on the company's internal CMS system.\nAdded promotion pages to the mobile Bingo MVC5 site to support mobile, tablet and native app platforms.\nCreated a new centralised game launch platform to support the introduction of games on to the mobile Sports website and app. This was delivered in time for the start of Euro 2016 and led to a significant increase in revenue.\nWorked on the development of the new responsive Games site, including front-end development in Typescript.\nWork on the transactional wallet APIs (WCF and WebAPI) that handle all of the transactions for the Gaming websites.\nCreated a fluent logging abstraction layer to ensure that best practices were enforced when logging from all of the team's products into Splunk via Log4Net.Created a Feature Toggle micro-service and .net library with Castle Windsor integration"
         },
         {
             "company": "Embury Software Ltd",
@@ -108,257 +108,267 @@
     {
       "name": "C#",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "ASP.NET MVC",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Octopus Deploy",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "AngularJS",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": ".NET",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "MVC",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Agile Methodologies",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "EPiServer",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "HTML",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "CSS",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
-	{
+    {
       "name": "LESS",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
-	{
+    {
+      "name": "SASS",
+      "level": "",
+      "keywords": [ ]
+    },
+    {
       "name": "Bootstrap",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
+    },
+    {
+      "name": "Typescript",
+      "level": "",
+      "keywords": [ ]
     },
     {
       "name": "Microsoft SQL Server",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "BDD",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Git",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Web Services",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "E-commerce",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "REST",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "WCF",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Continuous Integration",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "TFS",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Software Development",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "ASP.NET",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Visual Studio",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "WinForms",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "JavaScript",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "NUnit",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Web Applications",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "SQL",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "AJAX",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Design Patterns",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "T-SQL",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "OOP",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "SOA",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Jenkins",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "XML",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "IIS",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "UML",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "JSON",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "ExtJS",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Robotic Systems",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "GAMP",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Subversion",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Team Leadership",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "jQuery",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Software Design",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Windows Azure",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "FAKE",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Cross-functional Team Leadership",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "TeamCity",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Test Driven Development",
       "level": "",
-      "keywords": []
+      "keywords": [ ]
     }
   ],
   "references": [
